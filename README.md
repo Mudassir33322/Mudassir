@@ -10,9 +10,7 @@ Full-Stack Developer & AI Automation Specialist
 - n8n, AI Automation
 
 ## Live
-
-https://muhammadmudassir33322@gmail.com
-
+(https://mudassir33322.netlify.app/)
 ## Contact
 
 - WhatsApp: [+92 336 7177912](https://wa.me/923367177912)
